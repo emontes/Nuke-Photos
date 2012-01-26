@@ -91,7 +91,8 @@ REQUIRED_SETTING('FLOGR_SLIDESHOW_PHOTO_QUALITY', 'Medium640');
 
 /* Photosets to include - separate multiple sets with commas. */
 //OPTIONAL_SETTING('FLOGR_PHOTOSETS_INCLUDE', 'cancun, ciudad de mexico, isla mujeres, chichen itza, uxmal, puebla, tepeaca, campeche, cholula');
-OPTIONAL_SETTING('FLOGR_PHOTOSETS_INCLUDE', '');
+OPTIONAL_SETTING('FLOGR_PHOTOSETS_INCLUDE', 'cancun desde el mar, playas de cancun, cancun zona hotelera, cancun centro, isla mujeres, riviera maya, tulum, playa del carmen, xplor, xcaret,
+		puerto aventuras, crococun, la isla shopping village, plaza kukulkan');
 
 /* Number of tags to include in the tag cloud */
 REQUIRED_SETTING('FLOGR_TAGS_COUNT', 200);
