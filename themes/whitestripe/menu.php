@@ -10,9 +10,7 @@ if (defined('FLICKR_USER_ID')) {
 echo '    <li>
         <a id="menuitem_sets" href="'.MODULE_INDEX.'&type=sets">'._SETS.'</a>&nbsp;
     </li>
-    <li>
-        <a id="menuitem_tags" href="'.MODULE_INDEX.'&type=tags">'._TAGS.'</a>&nbsp;
-    </li>
+  
     <li>
         <a id="menuitem_map" href="'.MODULE_INDEX.'&type=map">'._MAP.'</a>&nbsp;
     </li>

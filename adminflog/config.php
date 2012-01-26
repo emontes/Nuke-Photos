@@ -26,7 +26,7 @@
  */
 OPTIONAL_SETTING('FLICKR_USER_ID',  '73729109@N02');  // turistamexico
 //OPTIONAL_SETTING('FLICKR_USER_ID',  '73846767@N05');  // funvacationworld
-OPTIONAL_SETTING('FLICKR_GROUP_ID', '1882299@N21');  //grupo de turista mexico
+OPTIONAL_SETTING('FLICKR_GROUP_ID', '1886997@N21');  //grupo de turista Quintana Roo
 //OPTIONAL_SETTING('FLICKR_GROUP_ID', '');  
 //OPTIONAL_SETTING('FLICKR_USER_ID',  '');
 //OPTIONAL_SETTING('FLICKR_GROUP_ID', '82648219@N00');
@@ -70,7 +70,7 @@ REQUIRED_SETTING('FLOGR_EXIF', 'Make,Model,Software,Exposure,Aperture,Shutter Sp
 REQUIRED_SETTING('FLOGR_PHOTO_QUALITY', 'Medium640');
 
 /* Desired width of main photo */
-REQUIRED_SETTING('FLOGR_MAIN_PHOTO_SIZE', 750);
+REQUIRED_SETTING('FLOGR_MAIN_PHOTO_SIZE', 640);
 
 /*
  * Quality (resolution) of the photo in the slideshow.  Can me:
@@ -109,7 +109,7 @@ REQUIRED_SETTING('FLOGR_DATE_FORMAT', 'F j, Y');
 REQUIRED_SETTING('FLOGR_SHOW_DATE_TAKEN', true);
 
 /* Number of thumbnails to show on the 'recent' page */
-REQUIRED_SETTING('FLOGR_THUMBNAILS_PER_PAGE', 48);
+REQUIRED_SETTING('FLOGR_THUMBNAILS_PER_PAGE', 49);
 
 /**
  * The order in which to sort returned photos. Deafults to date-posted-desc 

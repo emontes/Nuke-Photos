@@ -126,7 +126,7 @@ tr {
  ****************************************/
 #thumbnail_container {
     background: #ECECEC;
-    width: 730px;
+    width: 630px;
     padding: 10px;
     text-align: center;
 }
@@ -353,7 +353,7 @@ tr {
 #page {
     background: #fff;
     padding: 15px;
-    width: 745px;
+    width: 645px;
     text-align: center;
     position: relative;
     clear: both;
@@ -365,14 +365,14 @@ tr {
 #page_header {
     background: #ECECEC;
     padding: 10px;
-    width: 755px;
+    width: 655px;
 }
 
 #page_meta,#page_meta a {
     text-align: center;
     clear: both;
     white-space: nowrap;
-    width: 765px;
+    width: 665px;
     padding: 5px;
 }
 
@@ -390,7 +390,7 @@ tr {
 #page2 {
     background: #ECECEC;
     padding: 15px;
-    width: 745px;
+    width: 645px;
     text-align: center;
 }
 
@@ -401,7 +401,7 @@ tr {
 #wrapper {
     text-align: left;
     margin: 0px auto -15px;
-    width: 775px;
+    width: 675px;
     padding: 15px;
 }
 

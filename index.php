@@ -10,7 +10,7 @@
 if (!eregi("modules.php", $PHP_SELF)){
 	die ("You can't access this rows directly...");
 }
-$index = 1;
+
 $pagetitle = " - Fotos";
 require_once("mainfile.php");
 $module_name = basename(dirname(__FILE__));

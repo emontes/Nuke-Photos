@@ -32,7 +32,7 @@ include("header.php");
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
 <script type='text/javascript' src='<?php echo SITE_URL; ?>/<?php echo SITE_THEME_PATH;?>js/slimbox2.js'></script>
-  <div id="container">
+  <div id="turistaWiki body">
 
     <div id="wrapper">
     
