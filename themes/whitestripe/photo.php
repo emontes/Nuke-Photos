@@ -25,9 +25,9 @@
                     </div>
                     <button id="close" style="position:absolute;top:0;right:0;">Close</button>
                 </div>
-                <div style="float:left;width:250px">
+                <div style="float:left;width:200px">
                     <div class='thumb'>
-                        <?php $photo->photopage_link(null, $photo->get_img(null, 'Small', 250)); ?>
+                        <?php $photo->photopage_link(null, $photo->get_img(null, 'Small', 200)); ?>
                     </div>
                     <?php $photo->description(); ?>
                 </div>
